@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /pages/404
+Allow: /assets/images
+Allow: /pages/carterror
